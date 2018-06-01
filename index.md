@@ -14,7 +14,7 @@
 - full text: 자연어 검색, myisam에서만 지원
 - key를 지정하면, 그 키들을 통틀어서 인덱스라고 부름 
  
-# 예제
+### 예제
 ```sql
 DROP TABLE IF EXISTS `student`;
 CREATE TABLE `student` (
@@ -39,7 +39,7 @@ INSERT INTO `student` VALUES (7, '박경호', '제주', '국문과', '박경호�
 INSERT INTO `student` VALUES (8, '김정인', '대전', '영문과', '김정인입니다. 대전에서 왔고, 영문과에 다닙니다.', '0034543');
 ```
 
-# primary key
+## primary key
 
 - 테이블 전체를 통틀어서 중복되지 않는 값을 지정해야 한다. 중복되면 에러 발생 
 - where 문을 이용해서 데이터를 조회할 때 가장 고속으로 데이터를 가져올 수 있다.
@@ -50,7 +50,7 @@ INSERT INTO `student` VALUES (8, '김정인', '대전', '영문과', '김정인�
 select * from student where id=3;
  ```
  
-# unique key
+## unique key
 
 - 테이블 전체를 통틀어서 중복되지 않는 값을 지정해야 한다. e.g.학번 - 학번은 사람마다 중복되지 않음 
 - 'ind_number'가 unique key의 이름이 됨 
