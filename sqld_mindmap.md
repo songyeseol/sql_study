@@ -1,4 +1,4 @@
-# SQL Developer 시험범위 Mindmap (incomplete)
+# SQL Developer 자격증 주요개념 Mindmap (incomplete)
 - made with SimpleMind
 - from [DBGuide.net](http://www.dbguide.net/db.db?cmd=view&boardUid=&boardConfigUid=9&categoryUid=216&boardIdx=132&boardStep=1)
 
