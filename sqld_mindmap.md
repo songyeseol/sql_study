@@ -1,4 +1,6 @@
 # SQL Developer 시험범위 Mindmap (incomplete)
 - made with SimpleMind
+- from DBGuideNET(http://www.dbguide.net/db.db?cmd=view&boardUid=&boardConfigUid=9&categoryUid=216&boardIdx=132&boardStep=1)
 
-![sql developer](https://user-images.githubusercontent.com/28600272/40915383-c6eb6fbe-6836-11e8-8fe0-540be152e8fe.png)
+
+![sql developer_2](https://user-images.githubusercontent.com/28600272/40955291-13e82eb4-68c4-11e8-8954-9ed44894a4d7.png)
