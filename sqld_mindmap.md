@@ -1,4 +1,4 @@
-# SQL Developer 자격증 주요개념 Mindmap (incomplete)
+# SQL Developer 자격증 주요개념 Mindmap
 - made with SimpleMind
 - from [DBGuide.net](http://www.dbguide.net/db.db?cmd=view&boardUid=&boardConfigUid=9&categoryUid=216&boardIdx=132&boardStep=1)
 - 제 1절 데이터 모델의 이해 - updated on June 4th
