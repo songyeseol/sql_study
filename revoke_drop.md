@@ -12,7 +12,7 @@ REVOKE 권한 ON 데이터베이스.테이블 FROM 사용자
 
 ## 예제
 
-'''sql
+```sql
 revoke DELETE on class.* from dev;
 ```
 사용자 dev의 데이터베이스 class의 DELETE 권한을 제거 
