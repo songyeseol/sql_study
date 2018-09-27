@@ -6,7 +6,7 @@
 
 ```sql
 SELECT 칼럼명1, 칼럼명2
-    [FROM 테이블명 ]
+    [FROM 테이블명]
     [GROUP BY 칼럼명]
     [ORDER BY 칼럼명 [ASC | DESC]]
     [LIMIT offset, 조회 할 행의 수] 
