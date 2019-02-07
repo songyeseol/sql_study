@@ -29,6 +29,8 @@
     - 비쌈
   - mysql client
 ```
+create database 000
+drop database 000
 show databases - 데이터 베이스 리스트 보여줌 
 use music - music 데이터베이스 불러옴
 show tables - 테이블의 리스트를 열람
